@@ -124,6 +124,7 @@ Partial Class Bingo
         Me.Button77 = New System.Windows.Forms.Button()
         Me.btnBingo = New System.Windows.Forms.Button()
         Me.btnlinea = New System.Windows.Forms.Button()
+        Me.Button90 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label1
@@ -1249,12 +1250,23 @@ Partial Class Bingo
         '
         Me.btnlinea.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.btnlinea.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnlinea.Location = New System.Drawing.Point(931, 137)
+        Me.btnlinea.Location = New System.Drawing.Point(931, 166)
         Me.btnlinea.Name = "btnlinea"
         Me.btnlinea.Size = New System.Drawing.Size(181, 121)
         Me.btnlinea.TabIndex = 117
         Me.btnlinea.Text = "Linea"
         Me.btnlinea.UseVisualStyleBackColor = False
+        '
+        'Button90
+        '
+        Me.Button90.BackColor = System.Drawing.Color.DarkRed
+        Me.Button90.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button90.Location = New System.Drawing.Point(931, 26)
+        Me.Button90.Name = "Button90"
+        Me.Button90.Size = New System.Drawing.Size(181, 113)
+        Me.Button90.TabIndex = 118
+        Me.Button90.Text = "SALIR"
+        Me.Button90.UseVisualStyleBackColor = False
         '
         'Bingo
         '
@@ -1262,6 +1274,7 @@ Partial Class Bingo
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
         Me.ClientSize = New System.Drawing.Size(1168, 732)
+        Me.Controls.Add(Me.Button90)
         Me.Controls.Add(Me.btnlinea)
         Me.Controls.Add(Me.btnBingo)
         Me.Controls.Add(Me.Button77)
@@ -1472,4 +1485,5 @@ Partial Class Bingo
     Friend WithEvents Button77 As Button
     Friend WithEvents btnBingo As Button
     Friend WithEvents btnlinea As Button
+    Friend WithEvents Button90 As Button
 End Class
