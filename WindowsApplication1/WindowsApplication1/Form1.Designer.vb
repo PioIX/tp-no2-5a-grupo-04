@@ -112,15 +112,6 @@ Partial Class Bingo
         Me.Button87 = New System.Windows.Forms.Button()
         Me.Button88 = New System.Windows.Forms.Button()
         Me.Button89 = New System.Windows.Forms.Button()
-        Me.Button101 = New System.Windows.Forms.Button()
-        Me.Button102 = New System.Windows.Forms.Button()
-        Me.Button103 = New System.Windows.Forms.Button()
-        Me.Button104 = New System.Windows.Forms.Button()
-        Me.Button105 = New System.Windows.Forms.Button()
-        Me.Button106 = New System.Windows.Forms.Button()
-        Me.Button107 = New System.Windows.Forms.Button()
-        Me.Button108 = New System.Windows.Forms.Button()
-        Me.Button109 = New System.Windows.Forms.Button()
         Me.Button77 = New System.Windows.Forms.Button()
         Me.btnBingo = New System.Windows.Forms.Button()
         Me.btnlinea = New System.Windows.Forms.Button()
@@ -1125,105 +1116,6 @@ Partial Class Bingo
         Me.Button89.Text = "87"
         Me.Button89.UseVisualStyleBackColor = False
         '
-        'Button101
-        '
-        Me.Button101.BackColor = System.Drawing.Color.Thistle
-        Me.Button101.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button101.Location = New System.Drawing.Point(25, 657)
-        Me.Button101.Name = "Button101"
-        Me.Button101.Size = New System.Drawing.Size(78, 64)
-        Me.Button101.TabIndex = 103
-        Me.Button101.Text = "91"
-        Me.Button101.UseVisualStyleBackColor = False
-        '
-        'Button102
-        '
-        Me.Button102.BackColor = System.Drawing.Color.Thistle
-        Me.Button102.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button102.Location = New System.Drawing.Point(109, 657)
-        Me.Button102.Name = "Button102"
-        Me.Button102.Size = New System.Drawing.Size(78, 64)
-        Me.Button102.TabIndex = 102
-        Me.Button102.Text = "92"
-        Me.Button102.UseVisualStyleBackColor = False
-        '
-        'Button103
-        '
-        Me.Button103.BackColor = System.Drawing.Color.Thistle
-        Me.Button103.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button103.Location = New System.Drawing.Point(193, 657)
-        Me.Button103.Name = "Button103"
-        Me.Button103.Size = New System.Drawing.Size(78, 64)
-        Me.Button103.TabIndex = 101
-        Me.Button103.Text = "93"
-        Me.Button103.UseVisualStyleBackColor = False
-        '
-        'Button104
-        '
-        Me.Button104.BackColor = System.Drawing.Color.Thistle
-        Me.Button104.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button104.Location = New System.Drawing.Point(277, 657)
-        Me.Button104.Name = "Button104"
-        Me.Button104.Size = New System.Drawing.Size(78, 64)
-        Me.Button104.TabIndex = 100
-        Me.Button104.Text = "94"
-        Me.Button104.UseVisualStyleBackColor = False
-        '
-        'Button105
-        '
-        Me.Button105.BackColor = System.Drawing.Color.Thistle
-        Me.Button105.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button105.Location = New System.Drawing.Point(698, 657)
-        Me.Button105.Name = "Button105"
-        Me.Button105.Size = New System.Drawing.Size(78, 64)
-        Me.Button105.TabIndex = 99
-        Me.Button105.Text = "99"
-        Me.Button105.UseVisualStyleBackColor = False
-        '
-        'Button106
-        '
-        Me.Button106.BackColor = System.Drawing.Color.Thistle
-        Me.Button106.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button106.Location = New System.Drawing.Point(614, 657)
-        Me.Button106.Name = "Button106"
-        Me.Button106.Size = New System.Drawing.Size(78, 64)
-        Me.Button106.TabIndex = 98
-        Me.Button106.Text = "98"
-        Me.Button106.UseVisualStyleBackColor = False
-        '
-        'Button107
-        '
-        Me.Button107.BackColor = System.Drawing.Color.Thistle
-        Me.Button107.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button107.Location = New System.Drawing.Point(446, 657)
-        Me.Button107.Name = "Button107"
-        Me.Button107.Size = New System.Drawing.Size(78, 64)
-        Me.Button107.TabIndex = 97
-        Me.Button107.Text = "96"
-        Me.Button107.UseVisualStyleBackColor = False
-        '
-        'Button108
-        '
-        Me.Button108.BackColor = System.Drawing.Color.Thistle
-        Me.Button108.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button108.Location = New System.Drawing.Point(361, 657)
-        Me.Button108.Name = "Button108"
-        Me.Button108.Size = New System.Drawing.Size(78, 64)
-        Me.Button108.TabIndex = 96
-        Me.Button108.Text = "95"
-        Me.Button108.UseVisualStyleBackColor = False
-        '
-        'Button109
-        '
-        Me.Button109.BackColor = System.Drawing.Color.Thistle
-        Me.Button109.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button109.Location = New System.Drawing.Point(530, 657)
-        Me.Button109.Name = "Button109"
-        Me.Button109.Size = New System.Drawing.Size(78, 64)
-        Me.Button109.TabIndex = 95
-        Me.Button109.Text = "97"
-        Me.Button109.UseVisualStyleBackColor = False
-        '
         'Button77
         '
         Me.Button77.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
@@ -1273,20 +1165,11 @@ Partial Class Bingo
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
-        Me.ClientSize = New System.Drawing.Size(1168, 732)
+        Me.ClientSize = New System.Drawing.Size(1168, 650)
         Me.Controls.Add(Me.Button90)
         Me.Controls.Add(Me.btnlinea)
         Me.Controls.Add(Me.btnBingo)
         Me.Controls.Add(Me.Button77)
-        Me.Controls.Add(Me.Button101)
-        Me.Controls.Add(Me.Button102)
-        Me.Controls.Add(Me.Button103)
-        Me.Controls.Add(Me.Button104)
-        Me.Controls.Add(Me.Button105)
-        Me.Controls.Add(Me.Button106)
-        Me.Controls.Add(Me.Button107)
-        Me.Controls.Add(Me.Button108)
-        Me.Controls.Add(Me.Button109)
         Me.Controls.Add(Me.Button80)
         Me.Controls.Add(Me.Button81)
         Me.Controls.Add(Me.Button82)
@@ -1473,15 +1356,6 @@ Partial Class Bingo
     Friend WithEvents Button87 As Button
     Friend WithEvents Button88 As Button
     Friend WithEvents Button89 As Button
-    Friend WithEvents Button101 As Button
-    Friend WithEvents Button102 As Button
-    Friend WithEvents Button103 As Button
-    Friend WithEvents Button104 As Button
-    Friend WithEvents Button105 As Button
-    Friend WithEvents Button106 As Button
-    Friend WithEvents Button107 As Button
-    Friend WithEvents Button108 As Button
-    Friend WithEvents Button109 As Button
     Friend WithEvents Button77 As Button
     Friend WithEvents btnBingo As Button
     Friend WithEvents btnlinea As Button
