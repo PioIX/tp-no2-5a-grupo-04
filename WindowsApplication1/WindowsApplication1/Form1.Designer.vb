@@ -186,7 +186,7 @@ Partial Class Bingo
         '
         Me.Button5.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.Button5.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button5.Location = New System.Drawing.Point(446, 26)
+        Me.Button5.Location = New System.Drawing.Point(445, 26)
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(78, 64)
         Me.Button5.TabIndex = 6
